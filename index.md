@@ -1,6 +1,6 @@
 ## Have the day you have
 
-KU grad 2022
+## KU grad 2022
 ```What would you like to know?
 1. personal projects
 2. school projects
